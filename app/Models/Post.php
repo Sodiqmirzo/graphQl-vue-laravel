@@ -10,6 +10,8 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
 class Post extends Model
 {
     use HasFactory;
+    
+     protected $fillable = ['title', 'created_at'];
 
     public function author(): BelongsTo
     {
