@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Lighthouse Tutorial laravel
+# Lighthouse Tutorial Laravel
 
 **This is the resulting source code of following the [Lighthouse Tutorial](https://lighthouse-php.com/tutorial).**
 
